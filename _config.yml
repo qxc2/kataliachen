@@ -22,14 +22,14 @@ repository               : "qxc2/kataliachen"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.JPG"
+  avatar           : "/images/profile.JPG"
   name             : "Katalia Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Candidate in Operations Management"
+  location         : "800 W Campbell Rd, Richardson, TX 75080"
+  employer         : "The University of Texas at Dallas"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Qiuxia.Chen@utdallas.edu" 
 
   # Academic websites
   academia         : # URL
