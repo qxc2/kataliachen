@@ -22,7 +22,7 @@ repository               : "qxc2/kataliachen"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/kataliachen/images/profile.jpg"
+  avatar           : "/kataliachen/images/profile.JPG"
   name             : "Katalia Chen"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Operations Management"
