@@ -11,54 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Operations Management, The University of Texas at Dallas, May 2026
+* M.S. in Supply Chain Management, The University of Texas at Dallas (GPA: 3.97) May 2021
+* B.S. in Sociology, Harbin Engineering University, China, June 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2019–Jun 2020: UT Dallas                               
+  * Office of Information and Technology, IT Support Analyst, Dallas, Texas  
+  * Duties includes: Resolved around 480 tickets and helped around 6400 students, faculty, and staffs solve their technical issues.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2015 – Jul 2019: Shenzhen, China
+  * AUKEY International Limited
+  * Role: Business Development Supervisor,  Apr 2017 – July 2019
+  * Duties includes: 
+    • Led a team of 4 members and managed the global distribution business for AICOOK with contracts of $3M.  
+    • Adopted new strategies for the supply chain and helped distributors build a creative business model with a lower cost. 
+    • Increased customer share by 46% by using Google Advertising Analytics tools and creating a landing page. 
+    • Analyzed the ROI and payoff of establishing new branch offices in Italy and Argentina by field trips and communication with the investment department, lawyers, designers, and partners. 
+    • Built a pricing analysis model by analyzing product features and the competitors’ prices in various markets.
+  * Role: Business Development Manager, Nov 2015 – Mar 2017 
+    • Opened Latin America, India and Polish markets for the AUKEY brand. Our team took the profits from a negative number to 7 million RMB with my contribution of 1 million RMB. 
+    • Developed a system processing each procedure including orders integration, production, and international payment. 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Jul 2014 – Aug 2014:  Dallas, Texas          
+  * The Richards Group
+  * Marketing Assistant Intern
+  * Duties included: Conducted market research and customer analysis for DFW Airport and prepared research files.
