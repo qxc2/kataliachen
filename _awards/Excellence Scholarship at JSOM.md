@@ -2,7 +2,7 @@
 title: "High Scholar of Distinction at JSOM"
 collection: awards
 type: "Awards"
-permalink: /awards/High-Scholar-of-Distinction-at-JSOM
+permalink: /awards/Excellence Scholarship at JSOM
 venue: "Institute for Operations Research and the Management Sciences"
 date: 2023-10-20  
 ---
