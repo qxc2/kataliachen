@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Operations Management"
   location         : "800 W Campbell Rd, Richardson, TX 75080"
-  employer         : "The University of Texas at Dallas"
+  employer         : "https://jindal.utdallas.edu/phd-students/qiuxia-chen/"
   uri              : # URL
   email            : "Qiuxia.Chen@utdallas.edu" 
 
@@ -75,7 +75,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  website          : "https://jindal.utdallas.edu/phd-students/qiuxia-chen/"
+ # website          : "https://jindal.utdallas.edu/phd-students/qiuxia-chen/"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
