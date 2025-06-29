@@ -62,7 +62,7 @@ author:
   lastfm           : # Username
   linkedin         : "https://www.linkedin.com/in/katalia-chen/"
   mastodon         : # URL
-  medium           :# 
+  medium           :
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -75,7 +75,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  website          :# "https://jindal.utdallas.edu/phd-students/qiuxia-chen/"
+  website          : "https://jindal.utdallas.edu/phd-students/qiuxia-chen/"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
