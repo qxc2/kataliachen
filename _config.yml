@@ -9,9 +9,9 @@
 # Basic Site Settings 
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ph.D. Candidate"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Qiuxia Chen"
 description              : &description "personal description"
 url                      : https://qxc2.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/kataliachen" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "qxc2/kataliachen"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.JPG"
+  avatar           : "kataliachen/images/profile.JPG"
   name             : "Katalia Chen"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Operations Management"
