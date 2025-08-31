@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,75 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., Operations Management, The University of Texas at Dallas, 2026 (expected)
+* M.S. in Supply Chain Management, The University of Texas at Dallas (GPA: 3.97), May 2021
+* B.S. in Sociology, Harbin Engineering University, China June 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2019 – Jun 2020 :IT Support Analyst                              
+  * UT Dallas, Office of Information and Technology, Dallas, Texas 
+  * Resolved around 480 tickets and helped around 6400 students, faculty, and staffs solve their technical issues.
+    
+* Apr 2017 – Jul 2019: Business Development Supervisor
+  * AUKEY International Limited, Shenzhen, China
+  * Led a team of 4 members and managed the global distribution business for AICOOK with   contracts of $3M.
+  * Adopted new strategies for the supply chain and build a creative business model with a lower cost for distributors.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2015 – Mar 2017: Business Development Manager
+  * AUKEY International Limited, Shenzhen, China
+  * Expanded AUKEY to Latin America, India & Poland; contributed ¥1M of ¥7M profit turnaround.
+  * Developed a system processing each procedure including orders integration, production, and international payment.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul 2014 – Aug 2014: Marketing Assistant Intern
+  * The Richards Group, Dallas, Texas    
+  *  Conducted market research and customer analysis for DFW Airport and prepared research files.
+
+Research interests
+======
+- Topics: Societal Impact, Sustainability, and Public Sector OR
+- Methodologies: Empirical Econometric, Machine Learning, Lab Experiment
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Machine Learning, Python, R, Tableau, STATA, Mathematica, LaTex, Advanced EXCEL, Third-Level Psychology Counselling (certified in China) 
 
-Publications
+Papers under review and working papers
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  1. Saving Lives in Animal Shelters: Strategic Time Allocation Under Capacity Constraints, with Elena Katok and Ernan Haruvy. under review at Management Science.
+     - Finalist, 2025 INFORMS Doing Good with Good OR student paper competition
+     - Accepted by 2025 ISOM Research Workshop at University of Florida
+  2. From Theory to Impact: Applying Strategic Time Allocation at Dallas Animal Services, with Elena Katok. Work in Progress.
   
-Talks
+Presentation and invited talks 
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+ - INFORMS Annual Meeting                                2021, 2022, 2023, 2024, scheduled 2025
+ - INFORMS MSOM Conference                                                                 2024
+ - POMS Annual Conference                                                                  2025
+ - Behavioral Operations Conference                                            2022, 2023, 2024
+ - BOMSI Workshop at Harvard University                                                    2023
+ - DSI Annual Conference  scheduled                                                        2025
+ - 2025 ISOM Research Workshop, invited by the University of Florida                       2025
+ 
+Teaching experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+ - Independent Instructor, The University of Texas at Dallas- Undergraduate core: Managerial Methods in Decision Making Under Uncertainty
+   -  Fall 2025, class size: 75, main topics: statistics- Spring 2025, class size: 65, main topics: statistics, evaluation: 4.8/5.0- Nomination for President’s Teaching Excellence Award
+
+  - Teaching Assistant, The University of Texas at Dallas- MS/BS courses: Predictive Analytics, Quantitative Business Analytics, Purchasing, Sourcing, and Contract Management, Spreadsheet Modeling and Analytics, Retail Operation
+    
+Teaching interests
 ======
-* Currently signed in to 43 different slack teams
+Statistics and Data Analysis, Business Programming (R/Python), Predictive Analytics and Forecasting, Spreadsheet Modelling and Analytics, Machine Learning, AI in Supply Chain Management
+    
+Professional and community service
+======
+ - Session Chair, 2025 DSI Annual Conference
+ - Founding President, JSOM PhD Social Club — first PhD-level student organization at the university
+ - Volunteer and Operational Advisor, Dallas Animal Services (weekly engagement)
+   
+Media coverage
+======
+ - Scene on Campus: Dogs of UTD, UTD Social Media, Jul 22, 2024
+ - Student Speaker at Master Student’s Graduation Ceremony, UTDallas Website, Aug 12, 2021
+
