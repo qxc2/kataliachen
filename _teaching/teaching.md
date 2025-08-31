@@ -1,7 +1,6 @@
 ---
 collection: teaching
 permalink: /teaching/
-#layout: single
 ---
 
 **Independent Instructor** The University of Texas at Dallas
