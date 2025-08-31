@@ -1,7 +1,7 @@
 ---
 collection: awards
 permalink: /awards/
-layout: single
+layout: default
 ---
 
   - **Graduate Studies Scholarship**, The University of Texas at Dallas  2021-2026
