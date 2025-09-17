@@ -13,6 +13,7 @@ permalink: /research/
  2. From Theory to Impact: Applying Strategic Time Allocation at Dallas Animal Services, with Elena Katok. Work
  in Progress.
 ![Teaching session]({{ site.baseurl }}/images/research-1.jpg)
+
  **Presentation and Invited Talks**
  1. INFORMS Annual Meeting                                               2021, 2022, 2023, 2024, scheduled 2025
  2. INFORMS MSOM Conference                                              2024
