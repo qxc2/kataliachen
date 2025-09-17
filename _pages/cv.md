@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href="/kataliachen/files/cv.pdf" target="_blank" class="cv-link">
-</a>
-
+<embed src="/kataliachen/files/cv.pdf" width="100%" height="800px" type="application/pdf">
