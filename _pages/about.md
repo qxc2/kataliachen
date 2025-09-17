@@ -10,5 +10,9 @@ Hello! My name is Qiuxia (Katalia) Chen. I’m a fifth-year Ph.D. candidate in O
 
 I’m passionate about doing research that has societal impact using empirical econometrics and machine learning. My dissertation turns data into decision-support tools for municipal animal shelters, helping leaders optimize capacity and policies to improve efficiency and save more dogs’ lives. More broadly speaking, I’m interested in research on societal impact, non-profit organizations, and sustainability. 
 
-I’m fortunate to be advised by Prof. Elena Katok. I’m on the 2025–2026 academic job market!
+I’m fortunate to be advised by Prof. Elena Katok. I’m on the 2025–2026 academic job market! 
+<a href="/files/cv.pdf" target="_blank" class="cv-link">
+  <i class="fas fa-file-pdf"></i> View CV
+</a>
+
 ![Teaching session]({{ site.baseurl }}/images/front.jpg)
