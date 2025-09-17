@@ -14,5 +14,4 @@ I’m fortunate to be advised by Prof. Elena Katok. I’m on the 2025–2026 ac
 <a href="/files/cv.pdf" target="_blank" class="cv-link">
   <i class="fas fa-file-pdf"></i> View CV
 </a>
-
 ![Teaching session]({{ site.baseurl }}/images/front.jpg)
