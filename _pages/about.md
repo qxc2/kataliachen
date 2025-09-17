@@ -12,6 +12,6 @@ I’m passionate about doing research that has societal impact using empirical e
 
 I’m fortunate to be advised by Prof. Elena Katok. I’m on the 2025–2026 academic job market! 
 <a href="/kataliachen/files/cv.pdf" target="_blank" class="cv-link">
-  <i class="fas fa-file-pdf"></i> Download CV
+  Download CV
 </a>
 ![Teaching session]({{ site.baseurl }}/images/front.jpg)
