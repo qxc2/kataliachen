@@ -10,8 +10,8 @@ permalink: /research/
 **Papers Under Review and Working Papers**
  1. Saving Lives in Animal Shelters: Strategic Time Allocation Under Capacity Constraints, with Elena Katok and
  Ernan Haruvy. Finalizing the submission to Management Science (submission expected by Sep 22, 2025)
-  -- Finalist, 2025 INFORMS Doing Good with Good OR student paper competition
-  -- Accepted by 2025 ISOM Research Workshop at University of Florida
+  -Finalist, 2025 INFORMS Doing Good with Good OR student paper competition
+  -Accepted by 2025 ISOM Research Workshop at University of Florida
  3. From Theory to Impact: Applying Strategic Time Allocation at Dallas Animal Services, with Elena Katok. Work
  in Progress.
 ![Teaching session]({{ site.baseurl }}/images/research-1.jpg)
