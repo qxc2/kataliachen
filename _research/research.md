@@ -4,8 +4,8 @@ permalink: /research/
 ---
 
 **Research Interests**
- Topics: Societal Impact, Sustainability, and Public Sector OR
- Methodologies: Empirical Econometric, Machine Learning, Lab Experiment
+ 1. Topics: Societal Impact, Sustainability, and Public Sector OR
+ 2. Methodologies: Empirical Econometric, Machine Learning, Lab Experiment
  
 **Papers Under Review and Working Papers**
  1. Saving Lives in Animal Shelters: Strategic Time Allocation Under Capacity Constraints, with Elena Katok and
