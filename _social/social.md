@@ -8,6 +8,7 @@ permalink: /social/
  - [Student Speaker at Master Student’s Graduation Ceremony, UTDallas Website, Aug 12, 2021](https://graduation.utdallas.edu/student-speeches/spring-2021-graduation/katalia-qiuxia-chen/)
 
 **Professional and Community Service**
- - Session Chair, 2025 DSI Annual Conference
- - Founding President, JSOM PhD Social Club — first PhD-level student organization at the university
- - Volunteer and Operational Advisor, Dallas Animal Services (weekly engagement)
+ - Session Chair, DSI Annual Conference                                                               2025
+ - Founding President, JSOM PhD Social Club — first PhD-level student organization at the university  2022-2024
+ - External Consultant (pro bono), Dallas Animal Services                                             2023-2025
+ - Ambassador, The Doctorate in Operations Management Embassy (DOME)                                  2025
