@@ -23,7 +23,7 @@ repository               : "qxc2/kataliachen"
 author:
   # Biographic information
   avatar           : "/profile.jpg"
-  name             : "Katalia Chen"
+ # name             : "Katalia Chen"
   pronouns         : "she/her"  
   bio              : "Ph.D. Candidate in Operations Management"
   location         : "800 W Campbell Rd Richardson TX 75080"
