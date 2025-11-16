@@ -4,7 +4,7 @@ permalink: /social/
 ---
 
 **Media Coverage**
- - [Scene on Campus: Dogs of UTD, UTD Social Media, Jul 22, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7213608828880216066/)
+ - [Scene on Campus: Dogs of UTD, UTD Social Media, Jul 22, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7213608828880216066/ (https://www.youtube.com/shorts/wGn0eF9wVDE)
  - [Student Speaker at Master Student’s Graduation Ceremony, UTDallas Website, Aug 12, 2021](https://graduation.utdallas.edu/student-speeches/spring-2021-graduation/katalia-qiuxia-chen/)
 
 **Professional and Community Service**
