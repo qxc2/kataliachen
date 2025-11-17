@@ -4,7 +4,7 @@ permalink: /social/
 ---
 
 **Media Coverage**
- - [INFORMS Doing Good with Good OR student paper competition](https://www.youtube.com/shorts/wGn0eF9wVDE)
+ - [INFORMS Doing Good with Good OR student paper competition, Oct 20, 2025](https://www.youtube.com/shorts/wGn0eF9wVDE)
  - [Scene on Campus: Dogs of UTD, UTD Social Media, Jul 22, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7213608828880216066/)
  - [Student Speaker at Master Student’s Graduation Ceremony, UTDallas Website, Aug 12, 2021](https://graduation.utdallas.edu/student-speeches/spring-2021-graduation/katalia-qiuxia-chen/)
 
